@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Apple Meta Tags\n"
+"POT-Creation-Date: 2014-01-14 20:31+0100\n"
+"PO-Revision-Date: 2014-01-14 20:31+0100\n"
+"Last-Translator: Sebastien <sebastien@sebs-studio.com>\n"
+"Language-Team: Sebs Studio <sebastien@sebs-studio.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: apple-meta-tags.php:28 apple-meta-tags.php:92
+msgid "Apple Meta Tags Settings"
+msgstr ""
+
+#: apple-meta-tags.php:28
+msgid "Apple Meta Tags"
+msgstr ""
+
+#: apple-meta-tags.php:102
+msgid "Enable iOS Web-App Mode"
+msgstr ""
+
+#: apple-meta-tags.php:105 apple-meta-tags.php:131 apple-meta-tags.php:155
+#: apple-meta-tags.php:175 apple-meta-tags.php:211 apple-meta-tags.php:256
+msgid "No"
+msgstr ""
+
+#: apple-meta-tags.php:106 apple-meta-tags.php:132 apple-meta-tags.php:156
+#: apple-meta-tags.php:176 apple-meta-tags.php:212 apple-meta-tags.php:257
+msgid "Yes"
+msgstr ""
+
+#: apple-meta-tags.php:112
+msgid "Web App Status Bar Color"
+msgstr ""
+
+#: apple-meta-tags.php:115
+msgid "Default (Grey)"
+msgstr ""
+
+#: apple-meta-tags.php:116
+msgid "Black"
+msgstr ""
+
+#: apple-meta-tags.php:117
+msgid "Black Translucent"
+msgstr ""
+
+#: apple-meta-tags.php:123
+msgid "Web App Title"
+msgstr ""
+
+#: apple-meta-tags.php:128
+msgid "Use Viewport"
+msgstr ""
+
+#: apple-meta-tags.php:138
+msgid "Viewport"
+msgstr ""
+
+#: apple-meta-tags.php:152
+msgid "Detect Telephone Numbers"
+msgstr ""
+
+#: apple-meta-tags.php:163 apple-meta-tags.php:168 apple-meta-tags.php:184
+#: apple-meta-tags.php:189 apple-meta-tags.php:194 apple-meta-tags.php:199
+#: apple-meta-tags.php:204 apple-meta-tags.php:219 apple-meta-tags.php:224
+#: apple-meta-tags.php:229 apple-meta-tags.php:234 apple-meta-tags.php:239
+#: apple-meta-tags.php:244 apple-meta-tags.php:249 apple-meta-tags.php:265
+#: apple-meta-tags.php:270 apple-meta-tags.php:275
+msgid "Upload"
+msgstr ""
+
+#: apple-meta-tags.php:172
+msgid "Touch Icon Precomposed"
+msgstr ""
+
+#: apple-meta-tags.php:178
+msgid "Use glossy bookmark icon."
+msgstr ""
+
+#: apple-meta-tags.php:183
+msgid "URL to iPod Touch Icon"
+msgstr ""
+
+#: apple-meta-tags.php:188 apple-meta-tags.php:193
+msgid "URL to iPad Touch Icon"
+msgstr ""
+
+#: apple-meta-tags.php:198
+msgid "URL to iPhone 4 Touch Icon"
+msgstr ""
+
+#: apple-meta-tags.php:203
+msgid "URL to iPhone 5 Touch Icon"
+msgstr ""
+
+#: apple-meta-tags.php:208
+msgid "Use Startup Screens"
+msgstr ""
+
+#: apple-meta-tags.php:218
+msgid "URL to iPhone Portrait startup screen"
+msgstr ""
+
+#: apple-meta-tags.php:223
+msgid "URL to Retina Portrait iPhone startup screen"
+msgstr ""
+
+#: apple-meta-tags.php:228
+msgid "URL to 4-inch Portrait Retina iPhone startup screen"
+msgstr ""
+
+#: apple-meta-tags.php:233
+msgid "URL to iPad Portrait startup screen"
+msgstr ""
+
+#: apple-meta-tags.php:238
+msgid "URL to iPad Landscape startup screen"
+msgstr ""
+
+#: apple-meta-tags.php:243
+msgid "URL to Retina iPad Portrait startup screen"
+msgstr ""
+
+#: apple-meta-tags.php:248
+msgid "URL to Retina iPad Landscape startup screen"
+msgstr ""
+
+#: apple-meta-tags.php:253
+msgid "Use Smart App Banner (iOS6+)"
+msgstr ""
+
+#: apple-meta-tags.php:259
+msgid ""
+"Safari has a Smart App Banner feature in iOS 6 and later that provides a "
+"standardized method of promoting apps on the App Store from your website."
+msgstr ""
+
+#: apple-meta-tags.php:259
+msgid "Read for more information"
+msgstr ""
+
+#: apple-meta-tags.php:264
+msgid "App Store ID"
+msgstr ""
+
+#: apple-meta-tags.php:269
+msgid "Affiliate ID"
+msgstr ""
+
+#: apple-meta-tags.php:274
+msgid "App Argument"
+msgstr ""
